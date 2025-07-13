@@ -6,7 +6,7 @@ export const API_KEYS = {
 
 // API Base URLs
 export const API_URLS = {
-  OMDB: 'http://www.omdbapi.com',
+  OMDB: 'https://www.omdbapi.com',
   FOOTBALL: 'https://v3.football.api-sports.io',
   BASKETBALL: 'https://v1.basketball.api-sports.io',
   FORMULA1: 'https://v1.formula-1.api-sports.io'
